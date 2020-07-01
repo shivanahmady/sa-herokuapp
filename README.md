@@ -1,4 +1,5 @@
 ###### sample/testing 
+![Node.js CI](https://github.com/shivanahmady/auth0-nodejs-JK/workflows/Node.js%20CI/badge.svg)
 --- 
 
 [[ auth0-nodejs-JK ]]
