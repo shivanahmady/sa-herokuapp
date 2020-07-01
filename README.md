@@ -4,6 +4,9 @@
 
 [[ auth0-nodejs-JK ]]
 ===============
+[X] Auth0 Github Deployment Ext. 
+[X] Auth0 Slack Webhook
+[X] Github Workflows/Pages
 
 > ## *Running the Sample*
 #### 1. Add call back/logout url on website.
