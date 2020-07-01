@@ -17,6 +17,9 @@
 `AUTH0_CLIENT_SECRET=YOUR_CLIENT_SECRET`
 #### 3. Install/Run the app.
 ```bash
+npm install
+```
+```bash
 npm start
 ```
 - The app will be served at `localhost:3000`.
@@ -24,7 +27,9 @@ npm start
 
 > ## Install dependencies
 
-* ```npm install passport passport-auth0 express-session dotenv --save```
+```bash
+npm install passport passport-auth0 express-session dotenv --save
+```
 
 #### Running the Sample With Docker
 
