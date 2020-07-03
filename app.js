@@ -58,7 +58,7 @@ app.use(cookieParser());
 
 // config express-session
 var sess = {
-  secret: 'jrt53FGEcfh425624etrgdfETGDRFG',
+  secret: process.env.secret,
   cookie: {},
   resave: false,
   saveUninitialized: true
